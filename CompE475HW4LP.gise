@@ -41,6 +41,7 @@
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
     <transform xil_pn:end_ts="1602443196" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1602443196">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
     <transform xil_pn:end_ts="1602443196" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="492332824680390513" xil_pn:start_ts="1602443196">
       <status xil_pn:value="SuccessfullyRun"/>
@@ -66,7 +67,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602443943" xil_pn:in_ck="114387964406676430" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-130801559952389466" xil_pn:start_ts="1602443936">
+    <transform xil_pn:end_ts="1602610305" xil_pn:in_ck="114387964406676430" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-2596092331183982798" xil_pn:start_ts="1602610297">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
